@@ -50,9 +50,9 @@ toc: false
 </div>
 
 
-## Observable Frameworkとは？
+# Observable Frameworkとは？
 
-D3の制作者であるMike Bostockが作成した、データ アプリ、ダッシュボード、レポートなどを構築するたっめの静的サイト ジェネレーター。
+D3の制作者であるMike Bostock氏が作成した、データ アプリ、ダッシュボード、レポートなどを構築するたっめの静的サイト ジェネレーター。
 
 
 <a href="https://observablehq.com/">observablehq.com</a>の構文を用いてデータビジュアライゼーションを構築できるフレームワークです。
